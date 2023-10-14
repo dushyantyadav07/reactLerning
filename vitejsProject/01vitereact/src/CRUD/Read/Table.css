@@ -1,0 +1,16 @@
+.table-data {
+  margin: auto;
+  height: 100vh;
+}
+
+td {
+  border: 2px solid red;
+  padding: 5px;
+}
+
+th {
+  border: 2px solid red;
+  padding: 5px;
+  background-color: aqua;
+  color: black;
+}
